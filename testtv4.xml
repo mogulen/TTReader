@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding="ISO-8859-1"?>
+<!DOCTYPE TTNITF SYSTEM "ttnitf.dtd">
+<TTNITF>
+<HEAD>
+<MODVER ID="1:00" VER="04"/>
+<DEST ID="1:05">ALL</DEST>
+<DEST ID="1:05">EKO</DEST>
+<FIFO ID="1:20" FFNO="27"/>
+<FIFOVER ID="1:22" FFVERNO="03"/>
+<SERVID ID="1:30">TT</SERVID>
+<NR ID="1:40"></NR>
+<PRODID ID="1:50" TKOD="INR"/>
+<DATESENT ID="1:70">20130117</DATESENT>
+<TIMESENT ID="1:80">152530+0200</TIMESENT>
+<RECVER ID="2:00" VERNO="04"/>
+<TEXTTYP ID="2:03">01:PUBL</TEXTTYP>
+<SLUGG ID="2:05">kommunmutor-2</SLUGG>
+<EDSTAT ID="2:07">Ny version</EDSTAT>
+<URG ID="2:10" PRIO="4"/>
+<SUBREF ID="2:12">TT:09000000:ARB</SUBREF>
+<SUBREF ID="2:12">TT:02000000:LAG</SUBREF>
+<SUBREF ID="2:12">TT:04000000:EKO</SUBREF>
+<SUBREF ID="2:12">TT:14000000:SOC</SUBREF>
+<ACTADV ID="2:42" ACTION="02"/>
+<HEADLINE ID="2:105">Mut&aring;talad f&auml;lldes f&ouml;r jacuzzibadkar</HEADLINE>
+<HSOURCE ID="2:115">TT</HSOURCE>
+<CAPTION ID="2:120">Mut&aring;talad f&auml;lldes f&ouml;r jacuzzibadkar G&ouml;teborg TT Ett jacuzzibadkar var centralt i den dom d&auml;r en 38-&aring;rig bov&auml;rd vid det kommunala bostadsbolaget Poseidon i&nbsp;dag f&auml;lldes f&ouml;r mutbrott. Tingsr&auml;tten i G&ouml;teborg f&auml;llde bov&auml;rden f&ouml;r mutbrott i fallet med jacuzzib</CAPTION>
+<WRITER ID="2:122">ran jkn</WRITER>
+<LANG ID="2:135">sv</LANG>
+<REFUNO ID="6:250">20130117:TT:0024:0</REFUNO>
+<REFUNO ID="6:250">20130117:TT:0202:0</REFUNO>
+<SIZEMODE ID="7:10" SIZMOD="1"/>
+<MAXSUBSIZE ID="7:20">1880</MAXSUBSIZE>
+<SIZEANNO ID="7:90">1278</SIZEANNO>
+</HEAD>
+<BODY ID="8:10"><RUBBE ID="9901" ALLMI="3" ALLMU="0" EKO="0" IT="0" SPT="0" SPEL="0" REFNR="9888"><RUBBERUBRIK>Mut&aring;talad f&auml;lldes f&ouml;r jacuzzibadkar</RUBBERUBRIK><RUBBETEXT><P>Tingsr&auml;tten i G&ouml;teborg f&auml;llde i dag en 38-&aring;rig bov&auml;rd f&ouml;r mutbrott, f&ouml;r att ha tagit emot ett jacuzzibadkar. Han d&ouml;ms till villkorlig dom. Ytterligare en man, som f&ouml;retr&auml;der ett f&auml;rgf&ouml;retag, f&auml;lldes f&ouml;r bestickning.(TT)</P></RUBBETEXT></RUBBE><TEXT>
+<RUBRIK>Mut&aring;talad f&auml;lldes f&ouml;r jacuzzibadkar</RUBRIK>
+<DAT>
+<ORT>G&ouml;teborg</ORT><SOURCE>TT</SOURCE></DAT>
+<BRODTEXT>
+<P>Ett jacuzzibadkar var centralt i den dom d&auml;r en 38-&aring;rig bov&auml;rd vid det kommunala bostadsbolaget Poseidon i&nbsp;dag f&auml;lldes f&ouml;r mutbrott.</P>
+<P>Tingsr&auml;tten i G&ouml;teborg f&auml;llde bov&auml;rden f&ouml;r mutbrott i fallet med jacuzzibadkaret, men friade honom fr&aring;n fyra andra fall av mutbrott. Han d&ouml;ms till villkorlig dom.</P>
+<P>&Auml;ven en av de tv&aring; m&auml;nnen som f&ouml;retr&auml;der ett f&auml;rgf&ouml;retag, en 41-&aring;ring som &aring;talats f&ouml;r bestickning, f&auml;lldes f&ouml;r jacuzzifallet. Han d&ouml;ms till villkorlig dom samt 100 dagsb&ouml;ter. Den andre mannen friades helt.</P>
+<P>Stats&aring;klagare Nils-Eric Schultz vid riksenheten mot korruption hade &auml;ven &aring;talat 38-&aring;ringen och 41-&aring;ringen f&ouml;r grovt bedr&auml;geri, alternativt grovt trol&ouml;shet mot huvudman samt medhj&auml;lp d&auml;rtill. Han h&auml;vdade att kostnaden f&ouml;r jacuzzin, cirka 40&nbsp;000 kronor, till syvende och sist hamnat hos Poseidon, d&auml;r 38-&aring;ringen var anst&auml;lld som bov&auml;rd.</P>
+<P>Man skulle ha anv&auml;nt sig av osanna fakturor kring f&auml;rgkostnader och annat f&ouml;r att se till att kostnaden till slut hamnade hos Poseidon. Det resonemanget faller helt, h&auml;vdar tingsr&auml;tten, eftersom 41-&aring;ringen som en l&ouml;nef&ouml;rm&aring;n hade r&auml;tt att plocka ut vitvaror ur f&auml;rgf&ouml;retaget f&ouml;r 25&nbsp;000 kronor. Det fanns s&aring;ledes ingen anledning att h&aring;lla p&aring; med bluffakturor f&ouml;r att d&ouml;lja n&aring;got.</P>
+<P>&Aring;talet &auml;r det femte hittills som pr&ouml;vas i de m&aring;nga muth&auml;rvorna.</P></BRODTEXT></TEXT></BODY>
+<ENDSIZE ID="9:10">1278</ENDSIZE></TTNITF>
+
